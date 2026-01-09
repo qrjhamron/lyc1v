@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lyciv  
+# 👋 Hi, I’m Qrj  
 
 I’m a student and self-taught developer passionate about **Machine Learning, Open Source, and Linux**. I enjoy exploring **cloud technologies, automation, and system programming**, while constantly learning and building projects to sharpen my skills.  
 
